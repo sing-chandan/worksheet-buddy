@@ -1,0 +1,479 @@
+{
+  "schemaVersion": 1,
+  "id": "english-talk-about-today-grade-2",
+  "title": "Let’s Talk About Today!",
+  "subject": "English",
+  "grade": "2",
+  "source": "Untitled document (21).pdf",
+  "reviewed": true,
+  "generatedBy": "parent",
+  "createdAt": "2026-10-30",
+  "survey": null,
+  "questions": [
+    {
+      "id": "Q1a",
+      "group": "A. Today, yesterday & tomorrow",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Today is _____.",
+      "hi": "आज _____ है।",
+      "answers": [],
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "explanation": "Use the day on the device’s local calendar.",
+      "explanationHi": "डिवाइस के स्थानीय कैलेंडर का दिन देखिए।",
+      "context": "",
+      "status": "suggested",
+      "sources": [],
+      "dayOffset": 0
+    },
+    {
+      "id": "Q1b",
+      "group": "A. Today, yesterday & tomorrow",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Yesterday was _____.",
+      "hi": "कल यानी बीते हुए दिन _____ था।",
+      "answers": [],
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "explanation": "Use the day on the device’s local calendar.",
+      "explanationHi": "डिवाइस के स्थानीय कैलेंडर का दिन देखिए।",
+      "context": "",
+      "status": "suggested",
+      "sources": [],
+      "dayOffset": -1
+    },
+    {
+      "id": "Q1c",
+      "group": "A. Today, yesterday & tomorrow",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Tomorrow will be _____.",
+      "hi": "कल यानी आने वाले दिन _____ होगा।",
+      "answers": [],
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "explanation": "Use the day on the device’s local calendar.",
+      "explanationHi": "डिवाइस के स्थानीय कैलेंडर का दिन देखिए।",
+      "context": "",
+      "status": "suggested",
+      "sources": [],
+      "dayOffset": 1
+    },
+    {
+      "id": "Q1d",
+      "group": "A. Fill in the blanks",
+      "section": "custom",
+      "kind": "normal",
+      "en": "There are _____ days in a week.",
+      "hi": "एक सप्ताह में _____ दिन होते हैं।",
+      "answers": [
+        "Seven"
+      ],
+      "options": [
+        "Five",
+        "Six",
+        "Seven",
+        "Eight"
+      ],
+      "explanation": "A week has seven days, from Sunday through Saturday.",
+      "explanationHi": "एक सप्ताह में रविवार से शनिवार तक सात दिन होते हैं।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q2a",
+      "group": "A. Today, yesterday & tomorrow",
+      "section": "custom",
+      "kind": "normal",
+      "en": "What day is it today?",
+      "hi": "आज सप्ताह का कौन-सा दिन है?",
+      "answers": [],
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "explanation": "Use the day on the device’s local calendar.",
+      "explanationHi": "डिवाइस के स्थानीय कैलेंडर का दिन देखिए।",
+      "context": "",
+      "status": "suggested",
+      "sources": [],
+      "dayOffset": 0
+    },
+    {
+      "id": "Q2b",
+      "group": "A. Answer the question",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Which day comes after Wednesday?",
+      "hi": "बुधवार के बाद कौन-सा दिन आता है?",
+      "answers": [
+        "Thursday"
+      ],
+      "options": [
+        "Tuesday",
+        "Thursday",
+        "Friday",
+        "Sunday"
+      ],
+      "explanation": "Wednesday is followed by Thursday.",
+      "explanationHi": "बुधवार के बाद गुरुवार आता है।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q3a",
+      "group": "A. Rearrange the words",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Rearrange: today / sunny / is / It",
+      "hi": "शब्दों को सही क्रम में रखिए: today / sunny / is / It",
+      "answers": [
+        "It is sunny today."
+      ],
+      "options": [
+        "It is sunny today.",
+        "Sunny today it are.",
+        "It sunny is today are."
+      ],
+      "explanation": "The meaningful sentence is “It is sunny today.”",
+      "explanationHi": "सही वाक्य है: “आज धूप है।”",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q3b",
+      "group": "A. Rearrange the words",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Rearrange: playing / are / children / The",
+      "hi": "शब्दों को सही क्रम में रखिए: playing / are / children / The",
+      "answers": [
+        "The children are playing."
+      ],
+      "options": [
+        "The children are playing.",
+        "The children is playing.",
+        "Playing the are children."
+      ],
+      "explanation": "Use “are” with the plural subject “children”.",
+      "explanationHi": "बहुवचन “children” के साथ “are” लगाते हैं। अर्थ: बच्चे खेल रहे हैं।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q4a",
+      "group": "A. Choose the correct answer",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Which word tells us about the present day?",
+      "hi": "कौन-सा शब्द वर्तमान दिन के बारे में बताता है?",
+      "answers": [
+        "Today"
+      ],
+      "options": [
+        "Yesterday",
+        "Today",
+        "Tomorrow"
+      ],
+      "explanation": "Today means the present day.",
+      "explanationHi": "Today का अर्थ आज, यानी वर्तमान दिन है।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q4b",
+      "group": "A. Choose the correct answer",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Which sentence is correct?",
+      "hi": "कौन-सा वाक्य सही है?",
+      "answers": [
+        "Today is Monday."
+      ],
+      "options": [
+        "Today are Monday.",
+        "Today is Monday.",
+        "Today am Monday."
+      ],
+      "explanation": "“Today is Monday.” uses the correct verb. This is a grammar example, not a claim about today’s actual day.",
+      "explanationHi": "“Today is Monday.” में सही क्रिया है। यह व्याकरण का उदाहरण है; यह आज के असली दिन के बारे में कथन नहीं है।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q5a",
+      "group": "B. Complete the conversation",
+      "section": "custom",
+      "kind": "normal",
+      "en": "A: Good morning! How are you today? Choose a suitable reply.",
+      "hi": "क: सुप्रभात! आज आप कैसे हैं? उचित उत्तर चुनिए।",
+      "answers": [
+        "I am fine, thank you."
+      ],
+      "options": [
+        "I am fine, thank you.",
+        "Yesterday will blue.",
+        "I are happy today."
+      ],
+      "explanation": "One polite example is “I am fine, thank you.” You can describe how you really feel.",
+      "explanationHi": "एक विनम्र उदाहरण है: “मैं ठीक हूँ, धन्यवाद।” आप अपनी असली भावना भी बता सकते हैं।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q5b",
+      "group": "B. Complete the conversation",
+      "section": "custom",
+      "kind": "normal",
+      "en": "A: What are you doing today? Choose a suitable reply.",
+      "hi": "क: आज आप क्या कर रहे हैं? उचित उत्तर चुनिए।",
+      "answers": [
+        "I am studying and playing today."
+      ],
+      "options": [
+        "I am studying and playing today.",
+        "I are study today.",
+        "Tomorrow was yesterday."
+      ],
+      "explanation": "This is a grammatical example. Your own activities may be different.",
+      "explanationHi": "यह व्याकरण की दृष्टि से सही उदाहरण है। आपके अपने काम अलग हो सकते हैं।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q6a",
+      "group": "B. Sentences about your day",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Choose a correct first sentence about the listed activities.",
+      "hi": "दी गई गतिविधियों के बारे में पहला सही वाक्य चुनिए।",
+      "answers": [
+        "I wake up at 7 o’clock."
+      ],
+      "options": [
+        "I wake up at 7 o’clock.",
+        "I wakes at 7 o’clock.",
+        "I waking are seven."
+      ],
+      "explanation": "An example sentence is “I wake up at 7 o’clock.”",
+      "explanationHi": "एक उदाहरण है: “मैं सात बजे उठता/उठती हूँ।”",
+      "context": "Activities from the worksheet:\nWake up at 7 o’clock.\nGo to school.\nPlay with friends.\nComplete homework.",
+      "status": "suggested",
+      "sources": [],
+      "contextHi": "सुबह 7 बजे उठना। स्कूल जाना। दोस्तों के साथ खेलना। गृहकार्य पूरा करना।"
+    },
+    {
+      "id": "Q6b",
+      "group": "B. Sentences about your day",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Choose a correct second sentence about the listed activities.",
+      "hi": "दी गई गतिविधियों के बारे में दूसरा सही वाक्य चुनिए।",
+      "answers": [
+        "I go to school and play with my friends."
+      ],
+      "options": [
+        "I go to school and play with my friends.",
+        "I goes school and plays friends.",
+        "I am go school yesterday today."
+      ],
+      "explanation": "An example sentence is “I go to school and play with my friends.” You could also write about completing homework.",
+      "explanationHi": "एक उदाहरण है: “मैं स्कूल जाता/जाती हूँ और दोस्तों के साथ खेलता/खेलती हूँ।” आप गृहकार्य पूरा करने के बारे में भी लिख सकते हैं।",
+      "context": "Activities from the worksheet:\nWake up at 7 o’clock.\nGo to school.\nPlay with friends.\nComplete homework.",
+      "status": "suggested",
+      "sources": [],
+      "contextHi": "सुबह 7 बजे उठना। स्कूल जाना। दोस्तों के साथ खेलना। गृहकार्य पूरा करना।"
+    },
+    {
+      "id": "Q7a",
+      "group": "B. Read and answer",
+      "section": "custom",
+      "kind": "normal",
+      "en": "What did Riya do yesterday?",
+      "hi": "रिया ने बीते हुए कल क्या किया था?",
+      "answers": [
+        "She completed her homework."
+      ],
+      "options": [
+        "She completed her homework.",
+        "She visited her grandmother.",
+        "She went to the moon."
+      ],
+      "explanation": "The passage says that Riya completed her homework yesterday.",
+      "explanationHi": "अनुच्छेद बताता है कि रिया ने बीते हुए कल अपना गृहकार्य पूरा किया था।",
+      "context": "Riya has a dance class today. Yesterday, she completed her homework. Tomorrow, she will visit her grandmother.",
+      "status": "suggested",
+      "sources": [],
+      "contextHi": "आज रिया की नृत्य कक्षा है। बीते हुए कल उसने अपना गृहकार्य पूरा किया था। आने वाले कल वह अपनी दादी या नानी से मिलने जाएगी।"
+    },
+    {
+      "id": "Q7b",
+      "group": "B. Read and answer",
+      "section": "custom",
+      "kind": "normal",
+      "en": "What will Riya do tomorrow?",
+      "hi": "रिया आने वाले कल क्या करेगी?",
+      "answers": [
+        "She will visit her grandmother."
+      ],
+      "options": [
+        "She will visit her grandmother.",
+        "She will travel to the moon.",
+        "She will finish yesterday."
+      ],
+      "explanation": "The passage says that she will visit her grandmother tomorrow.",
+      "explanationHi": "अनुच्छेद बताता है कि वह आने वाले कल अपनी दादी या नानी से मिलने जाएगी।",
+      "context": "Riya has a dance class today. Yesterday, she completed her homework. Tomorrow, she will visit her grandmother.",
+      "status": "suggested",
+      "sources": [],
+      "contextHi": "आज रिया की नृत्य कक्षा है। बीते हुए कल उसने अपना गृहकार्य पूरा किया था। आने वाले कल वह अपनी दादी या नानी से मिलने जाएगी।"
+    },
+    {
+      "id": "Q8a",
+      "group": "B. Correct the mistakes",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Correct the sentence: “I am go to school today.”",
+      "hi": "वाक्य सही कीजिए: “I am go to school today.”",
+      "answers": [
+        "I am going to school today."
+      ],
+      "options": [
+        "I am going to school today.",
+        "I are go to school today.",
+        "I am goes to school today."
+      ],
+      "explanation": "Use “am going” to describe this action.",
+      "explanationHi": "इस काम का वर्णन करने के लिए “am going” लगाइए। अर्थ: मैं आज स्कूल जा रहा/रही हूँ।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q8b",
+      "group": "B. Correct the mistakes",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Correct the sentence: “She are playing today.”",
+      "hi": "वाक्य सही कीजिए: “She are playing today.”",
+      "answers": [
+        "She is playing today."
+      ],
+      "options": [
+        "She is playing today.",
+        "She am playing today.",
+        "She are plays today."
+      ],
+      "explanation": "Use “is” with “she”.",
+      "explanationHi": "“She” के साथ “is” लगाइए। अर्थ: वह आज खेल रही है।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q9",
+      "group": "C. Olympiad challenge",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Monday → Wednesday → Friday → Sunday → ?",
+      "hi": "सोमवार → बुधवार → शुक्रवार → रविवार → ?",
+      "answers": [
+        "Tuesday"
+      ],
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "Move forward two days each time. Two days after Sunday is Tuesday.",
+      "explanationHi": "हर बार दो दिन आगे बढ़िए। रविवार से दो दिन आगे मंगलवार है।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q10",
+      "group": "C. Calendar puzzle",
+      "section": "custom",
+      "kind": "normal",
+      "en": "If yesterday was the day before Friday, what day will it be tomorrow?",
+      "hi": "यदि बीता हुआ कल शुक्रवार से पहले वाला दिन था, तो आने वाला कल कौन-सा दिन होगा?",
+      "answers": [
+        "Saturday"
+      ],
+      "options": [
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "explanation": "The day before Friday is Thursday. Yesterday was Thursday, so today is Friday and tomorrow is Saturday.",
+      "explanationHi": "शुक्रवार से पहले गुरुवार आता है। बीता हुआ कल गुरुवार था, इसलिए आज शुक्रवार और आने वाला कल शनिवार है।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    }
+  ],
+  "lessons": [
+    {
+      "en": "Today is the present day. Yesterday is the day before today. Tomorrow is the day after today.",
+      "hi": "आज वर्तमान दिन है। बीता हुआ कल आज से पहले का दिन है। आने वाला कल आज के बाद का दिन है।"
+    },
+    {
+      "en": "There are seven days in a week: Sunday, Monday, Tuesday, Wednesday, Thursday, Friday and Saturday.",
+      "hi": "सप्ताह में सात दिन होते हैं: रविवार, सोमवार, मंगलवार, बुधवार, गुरुवार, शुक्रवार और शनिवार।"
+    },
+    {
+      "en": "Use “I am”, “she is” and “children are”. For an action happening now, use am/is/are with the -ing form: I am going.",
+      "hi": "“I am”, “she is” और “children are” का उपयोग कीजिए। अभी हो रहे काम के लिए am/is/are के साथ क्रिया का -ing रूप लगाते हैं: I am going."
+    },
+    {
+      "en": "Say what you are doing and how you feel. There can be many correct sentences about your own day.",
+      "hi": "बताइए कि आप क्या कर रहे हैं और कैसा महसूस कर रहे हैं। आपके अपने दिन के बारे में कई सही वाक्य हो सकते हैं।"
+    }
+  ],
+  "creative": {
+    "en": "Bonus speaking: Say three sentences: “Today, I am …”, “I feel … today”, and “Today, I want to …”. Write your own conversation replies and two sentences about your day. There is no single correct personal answer.",
+    "hi": "बोलने का अभ्यास: तीन वाक्य बोलिए: “आज मैं …”, “आज मैं … महसूस कर रहा/रही हूँ”, और “आज मैं … करना चाहता/चाहती हूँ”। बातचीत के अपने उत्तर और अपने दिन के बारे में दो वाक्य लिखिए। व्यक्तिगत उत्तरों का केवल एक सही उत्तर नहीं होता।",
+    "response": "",
+    "drawingEnabled": false
+  },
+  "notes": "All 20 answerable parts are included. Today/yesterday/tomorrow use the device’s local calendar date when practice begins. Keep the device date correct. Conversation and personal-writing prompts use example choices, with free writing in Learn & create; other grammatical replies can be valid. The three bonus speaking sentences are ungraded."
+}
