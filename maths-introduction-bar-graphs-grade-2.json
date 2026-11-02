@@ -1,0 +1,285 @@
+{
+  "schemaVersion": 1,
+  "id": "maths-introduction-bar-graphs-grade-2",
+  "title": "Introduction to Bar Graphs",
+  "subject": "Maths",
+  "grade": "2",
+  "source": "Grade_2_Introduction_to_Bar_Graph_Worksheet.pdf",
+  "reviewed": true,
+  "generatedBy": "parent",
+  "createdAt": "2026-11-02",
+  "survey": null,
+  "questions": [
+    {
+      "id": "Q1",
+      "group": "School-based questions",
+      "section": "custom",
+      "kind": "normal",
+      "en": "What does a bar graph help us do?",
+      "hi": "दंड आलेख यानी बार ग्राफ़ हमें क्या करने में मदद करता है?",
+      "answers": [
+        "Show and compare information"
+      ],
+      "options": [
+        "Tell a story",
+        "Show and compare information",
+        "Draw a map",
+        "Write a letter"
+      ],
+      "explanation": "A bar graph uses bars to show information and compare amounts.",
+      "explanationHi": "दंड आलेख जानकारी दिखाने और मात्राओं की तुलना करने के लिए पट्टियों का उपयोग करता है।",
+      "context": "",
+      "contextHi": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q2",
+      "group": "School-based questions",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Which part of a bar graph tells us what the graph is about?",
+      "hi": "दंड आलेख का कौन-सा भाग बताता है कि आलेख किस बारे में है?",
+      "answers": [
+        "Title"
+      ],
+      "options": [
+        "Title",
+        "Colour only",
+        "Page number",
+        "Name"
+      ],
+      "explanation": "The title tells us what information the graph shows.",
+      "explanationHi": "शीर्षक बताता है कि आलेख कौन-सी जानकारी दिखाता है।",
+      "context": "",
+      "contextHi": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q3",
+      "group": "School-based questions",
+      "section": "custom",
+      "kind": "normal",
+      "en": "How many children like apples?",
+      "hi": "कितने बच्चों को सेब पसंद हैं?",
+      "answers": [
+        "5"
+      ],
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "explanation": "The apple row shows 5 children.",
+      "explanationHi": "सेब की पंक्ति में 5 बच्चे दिए गए हैं।",
+      "context": "Favourite fruits\nApple: 5 children\nBanana: 3 children\nMango: 4 children",
+      "contextHi": "पसंदीदा फल\nसेब: 5 बच्चे\nकेला: 3 बच्चे\nआम: 4 बच्चे",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q4",
+      "group": "School-based questions",
+      "section": "custom",
+      "kind": "normal",
+      "en": "If one square stands for 2 children, how many children do 3 squares represent?",
+      "hi": "यदि एक वर्ग 2 बच्चों को दर्शाता है, तो 3 वर्ग कितने बच्चों को दर्शाएँगे?",
+      "answers": [
+        "6"
+      ],
+      "options": [
+        "5",
+        "6",
+        "3",
+        "8"
+      ],
+      "explanation": "3 × 2 = 6 children.",
+      "explanationHi": "3 × 2 = 6 बच्चे।",
+      "context": "Scale: 1 square = 2 children.\nSquares: ■ ■ ■",
+      "contextHi": "पैमाना: 1 वर्ग = 2 बच्चे।\nवर्ग: ■ ■ ■",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q5",
+      "group": "In-depth questions",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Which activity is liked by the greatest number of students?",
+      "hi": "सबसे अधिक विद्यार्थियों को कौन-सी गतिविधि पसंद है?",
+      "answers": [
+        "Dancing"
+      ],
+      "options": [
+        "Reading",
+        "Drawing",
+        "Dancing"
+      ],
+      "explanation": "Dancing is liked by 8 students, more than reading (6) or drawing (4).",
+      "explanationHi": "8 विद्यार्थियों को नृत्य पसंद है। यह पढ़ने (6) और चित्र बनाने (4) से अधिक है।",
+      "context": "Favourite activities\nReading: 6 students\nDrawing: 4 students\nDancing: 8 students",
+      "contextHi": "पसंदीदा गतिविधियाँ\nपढ़ना: 6 विद्यार्थी\nचित्र बनाना: 4 विद्यार्थी\nनृत्य: 8 विद्यार्थी",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q6",
+      "group": "In-depth questions",
+      "section": "custom",
+      "kind": "normal",
+      "en": "How many more students like dancing than drawing?",
+      "hi": "चित्र बनाने की तुलना में नृत्य कितने अधिक विद्यार्थियों को पसंद है?",
+      "answers": [
+        "4"
+      ],
+      "options": [
+        "2",
+        "4",
+        "6",
+        "12"
+      ],
+      "explanation": "8 − 4 = 4 more students.",
+      "explanationHi": "8 − 4 = 4 अधिक विद्यार्थी।",
+      "context": "Favourite activities\nReading: 6 students\nDrawing: 4 students\nDancing: 8 students",
+      "contextHi": "पसंदीदा गतिविधियाँ\nपढ़ना: 6 विद्यार्थी\nचित्र बनाना: 4 विद्यार्थी\nनृत्य: 8 विद्यार्थी",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q7",
+      "group": "In-depth questions",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Who read the most books, and how many books did that child read?",
+      "hi": "सबसे अधिक किताबें किसने पढ़ीं और उस बच्चे ने कितनी किताबें पढ़ीं?",
+      "answers": [
+        "Bina — 5 books"
+      ],
+      "options": [
+        "Aman — 3 books",
+        "Bina — 5 books",
+        "Charu — 2 books",
+        "Dev — 4 books"
+      ],
+      "explanation": "Bina has the longest bar: 5 units. Each unit is 1 book, so she read 5 books.",
+      "explanationHi": "बीना की पट्टी सबसे लंबी है: 5 इकाइयाँ। हर इकाई 1 किताब है, इसलिए उसने 5 किताबें पढ़ीं।",
+      "context": "",
+      "contextHi": "हर इकाई 1 किताब दर्शाती है। अमन: 3 किताबें; बीना: 5; चारु: 2; देव: 4।",
+      "status": "suggested",
+      "sources": [],
+      "barGraph": {
+        "title": "Books read by four children",
+        "unit": "books",
+        "scale": 1,
+        "rows": [
+          {
+            "label": "Aman",
+            "value": 3
+          },
+          {
+            "label": "Bina",
+            "value": 5
+          },
+          {
+            "label": "Charu",
+            "value": 2
+          },
+          {
+            "label": "Dev",
+            "value": 4
+          }
+        ]
+      }
+    },
+    {
+      "id": "Q8",
+      "group": "In-depth questions",
+      "section": "custom",
+      "kind": "normal",
+      "en": "How many students took part in the colour survey altogether?",
+      "hi": "रंगों के सर्वेक्षण में कुल कितने विद्यार्थी शामिल थे?",
+      "answers": [
+        "15"
+      ],
+      "options": [
+        "10",
+        "12",
+        "15",
+        "17"
+      ],
+      "explanation": "7 + 5 + 3 = 15 students.",
+      "explanationHi": "7 + 5 + 3 = 15 विद्यार्थी।",
+      "context": "Favourite colours\nRed: 7 students\nBlue: 5 students\nGreen: 3 students",
+      "contextHi": "पसंदीदा रंग\nलाल: 7 विद्यार्थी\nनीला: 5 विद्यार्थी\nहरा: 3 विद्यार्थी",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q9",
+      "group": "Olympiad-level questions",
+      "section": "custom",
+      "kind": "normal",
+      "en": "A bar graph uses 1 unit = 2 toys. A bar reaches 4 units. How many toys does it represent?",
+      "hi": "दंड आलेख में 1 इकाई = 2 खिलौने हैं। पट्टी 4 इकाइयों तक जाती है। यह कितने खिलौने दर्शाती है?",
+      "answers": [
+        "8"
+      ],
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "explanation": "4 × 2 = 8 toys.",
+      "explanationHi": "4 × 2 = 8 खिलौने।",
+      "context": "",
+      "contextHi": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q10",
+      "group": "Olympiad-level questions",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Which statement about the teams’ bottle caps is correct?",
+      "hi": "टीमों द्वारा इकट्ठे किए गए बोतल के ढक्कनों के बारे में कौन-सा कथन सही है?",
+      "answers": [
+        "Teams B and D collected the same number."
+      ],
+      "options": [
+        "Team A collected the most.",
+        "Teams B and D collected the same number.",
+        "Team C collected more than Team B.",
+        "Team D collected the least."
+      ],
+      "explanation": "Teams B and D each collected 9 bottle caps.",
+      "explanationHi": "टीम B और टीम D ने 9-9 ढक्कन इकट्ठे किए।",
+      "context": "Bottle caps collected\nTeam A: 6\nTeam B: 9\nTeam C: 4\nTeam D: 9",
+      "contextHi": "इकट्ठे किए गए ढक्कन\nटीम A: 6\nटीम B: 9\nटीम C: 4\nटीम D: 9",
+      "status": "suggested",
+      "sources": []
+    }
+  ],
+  "lessons": [
+    {
+      "en": "A bar graph shows and compares information using bars. Read its title to find out what it is about.",
+      "hi": "दंड आलेख पट्टियों से जानकारी दिखाता है और तुलना करता है। विषय जानने के लिए उसका शीर्षक पढ़िए।"
+    },
+    {
+      "en": "Read the labels to know who or what each bar represents. A longer bar shows a larger amount when all bars use the same scale.",
+      "hi": "हर पट्टी किसे या क्या दर्शाती है, यह जानने के लिए उसका नाम पढ़िए। समान पैमाने पर लंबी पट्टी अधिक मात्रा दिखाती है।"
+    },
+    {
+      "en": "Always check the scale. If 1 unit means 2 things, 4 units mean 4 × 2 = 8 things.",
+      "hi": "हमेशा पैमाना देखिए। यदि 1 इकाई का अर्थ 2 चीज़ें है, तो 4 इकाइयाँ 4 × 2 = 8 चीज़ें दर्शाती हैं।"
+    },
+    {
+      "en": "Add to find a total. Subtract to find how many more. Equal-height or equal-length bars show equal amounts.",
+      "hi": "कुल संख्या के लिए जोड़िए। कितने अधिक हैं, यह जानने के लिए घटाइए। समान ऊँचाई या लंबाई की पट्टियाँ समान मात्रा दर्शाती हैं।"
+    }
+  ],
+  "notes": "All 10 worksheet questions are included. Answers were checked against the teacher answer key on page 3. Written questions use multiple-choice answers with working in the feedback. Q7 keeps both parts together: the child’s name and number of books. Its bar graph has a scale of 1 unit = 1 book and a readable data table."
+}
