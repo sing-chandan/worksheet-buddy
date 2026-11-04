@@ -1,0 +1,332 @@
+{
+  "schemaVersion": 1,
+  "id": "maths-fractions-numerator-denominator-grade-2",
+  "title": "Fractions: Numerator & Denominator",
+  "subject": "Maths",
+  "grade": "2",
+  "source": "Grade_2_Introduction_to_Fractions.pdf",
+  "reviewed": true,
+  "generatedBy": "parent",
+  "createdAt": "2026-11-04",
+  "survey": null,
+  "questions": [
+    {
+      "id": "Q1",
+      "group": "A. School-based questions",
+      "section": "custom",
+      "kind": "normal",
+      "en": "A chocolate bar has 4 equal parts. Riya eats 1 part. What fraction does she eat?",
+      "hi": "चॉकलेट के 4 बराबर भाग हैं। रिया 1 भाग खाती है। वह कितना भाग खाती है?",
+      "answers": [
+        "1/4"
+      ],
+      "options": [
+        "1/2",
+        "1/4",
+        "1/3",
+        "4/1"
+      ],
+      "explanation": "She eats 1 of 4 equal parts, which is 1/4.",
+      "explanationHi": "वह 4 बराबर भागों में से 1 खाती है, यानी 1/4।",
+      "context": "",
+      "contextHi": "",
+      "status": "suggested",
+      "sources": [],
+      "fractionDiagram": {
+        "shape": "strip",
+        "parts": 4,
+        "colors": [
+          "purple",
+          "none",
+          "none",
+          "none"
+        ]
+      }
+    },
+    {
+      "id": "Q2",
+      "group": "A. School-based questions",
+      "section": "custom",
+      "kind": "normal",
+      "en": "In the fraction 3/5, which number is the denominator?",
+      "hi": "भिन्न 3/5 में हर यानी नीचे की संख्या कौन-सी है?",
+      "answers": [
+        "5"
+      ],
+      "options": [
+        "3",
+        "5",
+        "8",
+        "2"
+      ],
+      "explanation": "The denominator is the bottom number. In 3/5, it is 5.",
+      "explanationHi": "हर नीचे की संख्या है। 3/5 में हर 5 है।",
+      "context": "",
+      "contextHi": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q3",
+      "group": "A. Match fraction words",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Choose the correct matches for one-half, one-quarter and one-third.",
+      "hi": "आधा, एक-चौथाई और एक-तिहाई का सही मिलान चुनिए।",
+      "answers": [
+        "One-half = 1/2; one-quarter = 1/4; one-third = 1/3"
+      ],
+      "options": [
+        "One-half = 1/2; one-quarter = 1/4; one-third = 1/3",
+        "One-half = 1/4; one-quarter = 1/2; one-third = 1/3",
+        "One-half = 1/3; one-quarter = 1/4; one-third = 1/2",
+        "One-half = 2/1; one-quarter = 4/1; one-third = 3/1"
+      ],
+      "explanation": "One-half is 1/2, one-quarter is 1/4 and one-third is 1/3. In the worksheet letters, the matches are 1–B, 2–A, 3–C.",
+      "explanationHi": "आधा 1/2, एक-चौथाई 1/4 और एक-तिहाई 1/3 है। वर्कशीट के अक्षरों में मिलान है: 1–B, 2–A, 3–C।",
+      "context": "",
+      "contextHi": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q4",
+      "group": "A. School-based questions",
+      "section": "custom",
+      "kind": "normal",
+      "en": "A pizza has 8 equal slices. Sam eats 3 slices. How many slices are left?",
+      "hi": "पिज़्ज़ा के 8 बराबर टुकड़े हैं। सैम 3 टुकड़े खाता है। कितने टुकड़े बचे?",
+      "answers": [
+        "5"
+      ],
+      "options": [
+        "3",
+        "5",
+        "8",
+        "11"
+      ],
+      "explanation": "8 − 3 = 5 slices left. The coloured parts show the eaten slices.",
+      "explanationHi": "8 − 3 = 5 टुकड़े बचे। रंगे हुए भाग खाए गए टुकड़े दिखाते हैं।",
+      "context": "",
+      "contextHi": "",
+      "status": "suggested",
+      "sources": [],
+      "fractionDiagram": {
+        "shape": "circle",
+        "parts": 8,
+        "colors": [
+          "purple",
+          "purple",
+          "purple",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none"
+        ]
+      }
+    },
+    {
+      "id": "Q5",
+      "group": "B. Complete the sentences",
+      "section": "custom",
+      "kind": "normal",
+      "en": "A fraction shows equal parts of a ____. The top number is the ____. The bottom number is the ____.",
+      "hi": "भिन्न किसी ____ के बराबर भाग दिखाती है। ऊपर की संख्या ____ और नीचे की संख्या ____ कहलाती है।",
+      "answers": [
+        "Whole; numerator; denominator"
+      ],
+      "options": [
+        "Whole; numerator; denominator",
+        "Whole; denominator; numerator",
+        "Half; numerator; denominator",
+        "Whole; title; colour"
+      ],
+      "explanation": "A fraction describes a whole. The top number is the numerator; the bottom number is the denominator.",
+      "explanationHi": "भिन्न किसी पूरी वस्तु के भाग बताती है। ऊपर की संख्या अंश और नीचे की संख्या हर है।",
+      "context": "",
+      "contextHi": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q6",
+      "group": "B. In-depth thinking",
+      "section": "custom",
+      "kind": "normal",
+      "en": "From 1/4, 2/5, 3/4 and 5/5: which has numerator 3, and which shows one whole?",
+      "hi": "1/4, 2/5, 3/4 और 5/5 में: किसका अंश 3 है और कौन-सी भिन्न एक पूरी वस्तु दिखाती है?",
+      "answers": [
+        "Numerator 3: 3/4; one whole: 5/5"
+      ],
+      "options": [
+        "Numerator 3: 3/4; one whole: 5/5",
+        "Numerator 3: 2/5; one whole: 3/4",
+        "Numerator 3: 1/4; one whole: 2/5",
+        "Numerator 3: 5/5; one whole: 1/4"
+      ],
+      "explanation": "3/4 has 3 on top. 5/5 means all five equal parts, so it is one whole.",
+      "explanationHi": "3/4 में ऊपर 3 है। 5/5 का अर्थ पाँचों बराबर भाग है, इसलिए यह एक पूरी वस्तु है।",
+      "context": "",
+      "contextHi": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q7",
+      "group": "B. In-depth thinking",
+      "section": "custom",
+      "kind": "normal",
+      "en": "A sandwich has 4 equal pieces. Mia eats 2 and Leo eats 1. What fractions do Mia and Leo eat, and what fraction is left?",
+      "hi": "सैंडविच के 4 बराबर टुकड़े हैं। मिया 2 और लियो 1 खाता है। मिया और लियो कितना भाग खाते हैं और कितना बचता है?",
+      "answers": [
+        "Mia: 2/4; Leo: 1/4; left: 1/4",
+        "Mia: 1/2; Leo: 1/4; left: 1/4"
+      ],
+      "options": [
+        "Mia: 2/4; Leo: 1/4; left: 1/4",
+        "Mia: 1/4; Leo: 2/4; left: 1/4",
+        "Mia: 2/4; Leo: 1/4; left: 2/4",
+        "Mia: 2/4; Leo: 2/4; left: 0/4"
+      ],
+      "explanation": "Mia eats 2/4 (also 1/2), Leo eats 1/4, and 4 − 2 − 1 = 1 piece remains: 1/4.",
+      "explanationHi": "मिया 2/4 यानी 1/2 खाती है, लियो 1/4 खाता है। 4 − 2 − 1 = 1 टुकड़ा बचता है, यानी 1/4।",
+      "context": "Purple = Mia’s pieces. Blue = Leo’s piece. White = the piece left.",
+      "contextHi": "बैंगनी = मिया के टुकड़े। नीला = लियो का टुकड़ा। सफेद = बचा हुआ टुकड़ा।",
+      "status": "suggested",
+      "sources": [],
+      "fractionDiagram": {
+        "shape": "strip",
+        "parts": 4,
+        "colors": [
+          "purple",
+          "purple",
+          "blue",
+          "none"
+        ]
+      }
+    },
+    {
+      "id": "Q8",
+      "group": "B. Explain the fraction",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Arjun says, “In 2/6, the 6 tells how many parts are taken.” Is he correct? What do 2 and 6 tell us?",
+      "hi": "अर्जुन कहता है, “2/6 में 6 बताता है कि कितने भाग लिए गए हैं।” क्या वह सही है? 2 और 6 क्या बताते हैं?",
+      "answers": [
+        "No. 2 parts are taken; there are 6 equal parts in total."
+      ],
+      "options": [
+        "No. 2 parts are taken; there are 6 equal parts in total.",
+        "Yes. 6 parts are taken from 2 parts.",
+        "No. 2 is the total; 6 is the numerator.",
+        "Yes. Both numbers tell the parts taken."
+      ],
+      "explanation": "No. The numerator 2 tells the chosen parts; the denominator 6 tells the total equal parts.",
+      "explanationHi": "नहीं। अंश 2 लिए गए भाग बताता है; हर 6 कुल बराबर भाग बताता है।",
+      "context": "",
+      "contextHi": "",
+      "status": "suggested",
+      "sources": [],
+      "fractionDiagram": {
+        "shape": "strip",
+        "parts": 6,
+        "colors": [
+          "purple",
+          "purple",
+          "none",
+          "none",
+          "none",
+          "none"
+        ]
+      }
+    },
+    {
+      "id": "Q9",
+      "group": "C. Olympiad challenge",
+      "section": "custom",
+      "kind": "normal",
+      "en": "A square has 4 equal parts, with 2 shaded. Each part is split into 2 equal pieces. How many pieces are there, how many are shaded, and what fraction is shaded?",
+      "hi": "वर्ग के 4 बराबर भाग हैं, जिनमें 2 रंगे हैं। हर भाग के फिर 2 बराबर टुकड़े किए गए। कुल कितने टुकड़े हैं, कितने रंगे हैं और कितना भाग रंगा है?",
+      "answers": [
+        "8 pieces; 4 shaded; fraction 4/8",
+        "8 pieces; 4 shaded; fraction 1/2"
+      ],
+      "options": [
+        "8 pieces; 4 shaded; fraction 4/8",
+        "8 pieces; 2 shaded; fraction 2/8",
+        "4 pieces; 2 shaded; fraction 2/4",
+        "8 pieces; 6 shaded; fraction 6/8"
+      ],
+      "explanation": "4 × 2 = 8 pieces. The 2 shaded parts become 2 × 2 = 4 shaded pieces. The shaded fraction is 4/8 = 1/2.",
+      "explanationHi": "4 × 2 = 8 टुकड़े। 2 रंगे हुए भाग 2 × 2 = 4 रंगे टुकड़े बनते हैं। रंगा भाग 4/8 = 1/2 है।",
+      "context": "",
+      "contextHi": "",
+      "status": "suggested",
+      "sources": [],
+      "fractionDiagram": {
+        "shape": "grid",
+        "parts": 8,
+        "columns": 4,
+        "colors": [
+          "purple",
+          "purple",
+          "purple",
+          "purple",
+          "none",
+          "none",
+          "none",
+          "none"
+        ]
+      }
+    },
+    {
+      "id": "Q10",
+      "group": "C. Olympiad challenge",
+      "section": "custom",
+      "kind": "normal",
+      "en": "A cake has 8 equal pieces. Tina eats some, her brother eats 2, and 3 are left. How many pieces did Tina eat, and what fraction did she eat?",
+      "hi": "केक के 8 बराबर टुकड़े हैं। टीना कुछ खाती है, उसका भाई 2 खाता है और 3 बचते हैं। टीना ने कितने टुकड़े और कितना भाग खाया?",
+      "answers": [
+        "3 pieces; 3/8"
+      ],
+      "options": [
+        "3 pieces; 3/8",
+        "2 pieces; 2/8",
+        "5 pieces; 5/8",
+        "3 pieces; 3/3"
+      ],
+      "explanation": "8 − 2 − 3 = 3 pieces. Tina ate 3 of the 8 equal pieces, so her fraction is 3/8.",
+      "explanationHi": "8 − 2 − 3 = 3 टुकड़े। टीना ने 8 बराबर टुकड़ों में से 3 खाए, इसलिए उसका भाग 3/8 है।",
+      "context": "",
+      "contextHi": "",
+      "status": "suggested",
+      "sources": []
+    }
+  ],
+  "lessons": [
+    {
+      "en": "A fraction describes equal parts of a whole. In 3/5, 3 is the numerator and 5 is the denominator.",
+      "hi": "भिन्न किसी पूरी वस्तु के बराबर भाग बताती है। 3/5 में 3 अंश है और 5 हर है।"
+    },
+    {
+      "en": "The numerator is the top number: how many parts are chosen. The denominator is the bottom number: the total equal parts.",
+      "hi": "अंश ऊपर की संख्या है: कितने भाग लिए गए। हर नीचे की संख्या है: कुल कितने बराबर भाग हैं।"
+    },
+    {
+      "en": "When every part is chosen, the numerator and denominator are equal: 5/5 is one whole.",
+      "hi": "जब सभी भाग लिए जाते हैं, तो अंश और हर बराबर होते हैं: 5/5 एक पूरी वस्तु है।"
+    },
+    {
+      "en": "Splitting each of 4 parts into 2 makes 8 parts. Shading 2/4 and shading 4/8 cover the same amount: one-half.",
+      "hi": "चारों भागों में से हर एक के 2 टुकड़े करने पर 8 भाग बनते हैं। 2/4 और 4/8 रंगने से बराबर हिस्सा ढकता है: आधा।"
+    }
+  ],
+  "notes": "This is a separate worksheet from Introduction to Fractions. All 10 original questions are included and checked against the teacher key. Matching and multi-part questions use complete-answer choices, preserving one mark per original question. Equivalent fractions are accepted in the answer key where appropriate. Optional explanations and drawing practice are ungraded.",
+  "creative": {
+    "en": "Explain in your own words what the top and bottom numbers in 2/6 mean. Draw a square with 4 equal parts and shade 2. Split each part into 2 and count the shaded pieces. Write why 2/4 and 4/8 show the same amount.",
+    "hi": "अपने शब्दों में समझाइए कि 2/6 में ऊपर और नीचे की संख्या क्या बताती है। वर्ग के 4 बराबर भाग कीजिए और 2 रंगिए। फिर हर भाग के 2 टुकड़े कीजिए और रंगे हुए टुकड़े गिनिए। लिखिए कि 2/4 और 4/8 बराबर हिस्सा क्यों दिखाते हैं।",
+    "response": "",
+    "drawingEnabled": true
+  }
+}
