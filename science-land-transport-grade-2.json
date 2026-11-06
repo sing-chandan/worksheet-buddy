@@ -1,0 +1,305 @@
+{
+  "schemaVersion": 1,
+  "id": "science-land-transport-grade-2",
+  "title": "Land Transport: From Roads to Rails",
+  "subject": "Science",
+  "grade": "2",
+  "source": "Grade_2_Science_Land_Transport_Worksheet.pdf",
+  "reviewed": true,
+  "generatedBy": "parent",
+  "createdAt": "2026-11-06",
+  "survey": null,
+  "questions": [
+    {
+      "id": "Q1",
+      "group": "A. School-based questions",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Which of these travels on railway tracks?",
+      "hi": "इनमें से कौन रेलवे की पटरियों पर चलता है?",
+      "answers": [
+        "Train"
+      ],
+      "options": [
+        "Bus",
+        "Train",
+        "Bicycle"
+      ],
+      "optionsHi": [
+        "बस",
+        "रेलगाड़ी",
+        "साइकिल"
+      ],
+      "explanation": "A train travels on railway tracks.",
+      "explanationHi": "रेलगाड़ी रेलवे की पटरियों पर चलती है।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q2",
+      "group": "A. School-based questions",
+      "section": "custom",
+      "kind": "normal",
+      "en": "A vehicle that carries many passengers on roads is a _____.",
+      "hi": "सड़क पर बहुत से यात्रियों को ले जाने वाला वाहन _____ है।",
+      "answers": [
+        "Bus"
+      ],
+      "options": [
+        "Bus",
+        "Bicycle",
+        "Boat",
+        "Train"
+      ],
+      "optionsHi": [
+        "बस",
+        "साइकिल",
+        "नाव",
+        "रेलगाड़ी"
+      ],
+      "explanation": "A bus carries many passengers on roads.",
+      "explanationHi": "बस सड़क पर बहुत से यात्रियों को ले जाती है।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q3",
+      "group": "A. Road or rail?",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Choose the correct paths for a car and a train.",
+      "hi": "कार और रेलगाड़ी के चलने के सही रास्ते चुनिए।",
+      "answers": [
+        "Car: Road; Train: Rail"
+      ],
+      "options": [
+        "Car: Road; Train: Rail",
+        "Car: Rail; Train: Road",
+        "Car: Rail; Train: Rail",
+        "Car: Water; Train: Air"
+      ],
+      "optionsHi": [
+        "कार: सड़क; रेलगाड़ी: रेल की पटरी",
+        "कार: रेल की पटरी; रेलगाड़ी: सड़क",
+        "कार: रेल की पटरी; रेलगाड़ी: रेल की पटरी",
+        "कार: पानी; रेलगाड़ी: हवा"
+      ],
+      "explanation": "Cars travel on roads; trains travel on railway tracks.",
+      "explanationHi": "कार सड़क पर चलती है; रेलगाड़ी रेलवे की पटरियों पर चलती है।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q4",
+      "group": "A. School-based questions",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Which one is a two-wheeler?",
+      "hi": "कौन-सा वाहन दो पहियों वाला है?",
+      "answers": [
+        "Scooter"
+      ],
+      "options": [
+        "Scooter",
+        "Truck",
+        "Bus"
+      ],
+      "optionsHi": [
+        "स्कूटर",
+        "ट्रक",
+        "बस"
+      ],
+      "explanation": "A scooter has two wheels.",
+      "explanationHi": "स्कूटर में दो पहिए होते हैं।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q5",
+      "group": "B. Think and answer",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Choose two means of road transport.",
+      "hi": "सड़क परिवहन के दो साधन चुनिए।",
+      "answers": [
+        "Car and bus"
+      ],
+      "options": [
+        "Car and bus",
+        "Train and boat",
+        "Aeroplane and helicopter",
+        "Ship and boat"
+      ],
+      "optionsHi": [
+        "कार और बस",
+        "रेलगाड़ी और नाव",
+        "हवाई जहाज़ और हेलीकॉप्टर",
+        "जहाज़ और नाव"
+      ],
+      "explanation": "Car and bus are two examples. Bicycle, scooter, auto-rickshaw and truck are also road transport.",
+      "explanationHi": "कार और बस दो उदाहरण हैं। साइकिल, स्कूटर, ऑटो-रिक्शा और ट्रक भी सड़क परिवहन के साधन हैं।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q6",
+      "group": "B. Think and answer",
+      "section": "custom",
+      "kind": "normal",
+      "en": "What do we call the path on which trains move?",
+      "hi": "रेलगाड़ी जिस रास्ते पर चलती है, उसे क्या कहते हैं?",
+      "answers": [
+        "Railway tracks"
+      ],
+      "options": [
+        "Railway tracks",
+        "Footpath",
+        "River",
+        "Runway"
+      ],
+      "optionsHi": [
+        "रेलवे की पटरियाँ",
+        "फुटपाथ",
+        "नदी",
+        "हवाई पट्टी"
+      ],
+      "explanation": "Trains move along railway tracks.",
+      "explanationHi": "रेलगाड़ियाँ रेलवे की पटरियों पर चलती हैं।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q7",
+      "group": "B. Think and answer",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Why do people use buses? Choose one suitable reason.",
+      "hi": "लोग बसों का उपयोग क्यों करते हैं? एक उचित कारण चुनिए।",
+      "answers": [
+        "They carry many passengers and help people travel together"
+      ],
+      "options": [
+        "They carry many passengers and help people travel together",
+        "They fly above roads",
+        "They travel only on water",
+        "They have no wheels"
+      ],
+      "optionsHi": [
+        "वे बहुत से यात्रियों को ले जाती हैं और लोगों को साथ यात्रा करने में मदद करती हैं।",
+        "वे सड़कों के ऊपर उड़ती हैं।",
+        "वे केवल पानी पर चलती हैं।",
+        "उनमें पहिए नहीं होते।"
+      ],
+      "explanation": "Buses carry many passengers and help people travel together. Other relevant reasons can also be correct.",
+      "explanationHi": "बसें बहुत से यात्रियों को ले जाती हैं और साथ यात्रा करने में मदद करती हैं। दूसरे उचित कारण भी सही हो सकते हैं।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q8",
+      "group": "B. Complete both sentences",
+      "section": "custom",
+      "kind": "normal",
+      "en": "A _____ carries heavy goods on roads. An _____ pulls coaches on railway tracks.",
+      "hi": "_____ सड़क पर भारी सामान ले जाता है। _____ रेलवे की पटरियों पर डिब्बे खींचता है।",
+      "answers": [
+        "Truck; engine"
+      ],
+      "options": [
+        "Truck; engine",
+        "Bicycle; boat",
+        "Bus; scooter",
+        "Train; aeroplane"
+      ],
+      "optionsHi": [
+        "ट्रक; इंजन",
+        "साइकिल; नाव",
+        "बस; स्कूटर",
+        "रेलगाड़ी; हवाई जहाज़"
+      ],
+      "explanation": "A truck carries heavy goods on roads. A railway engine, also called a locomotive, pulls coaches on tracks.",
+      "explanationHi": "ट्रक सड़क पर भारी सामान ले जाता है। रेल का इंजन, जिसे लोकोमोटिव भी कहते हैं, पटरियों पर डिब्बे खींचता है।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q9",
+      "group": "C. Olympiad challenge",
+      "section": "custom",
+      "kind": "normal",
+      "en": "Riya and her family want to travel together to another city in one vehicle on roads. Which is the best choice?",
+      "hi": "रिया और उसका परिवार सड़क से एक ही वाहन में साथ दूसरे शहर जाना चाहते हैं। सबसे अच्छा विकल्प कौन-सा है?",
+      "answers": [
+        "Bus"
+      ],
+      "options": [
+        "Bicycle",
+        "Bus",
+        "Handcart"
+      ],
+      "optionsHi": [
+        "साइकिल",
+        "बस",
+        "हाथगाड़ी"
+      ],
+      "explanation": "Of these choices, a bus can carry the family together on roads.",
+      "explanationHi": "इन विकल्पों में बस परिवार को सड़क पर साथ ले जा सकती है।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    },
+    {
+      "id": "Q10",
+      "group": "C. Olympiad challenge",
+      "section": "custom",
+      "kind": "normal",
+      "en": "What makes it possible for a train to carry many people and goods?",
+      "hi": "रेलगाड़ी बहुत से लोगों और सामान को कैसे ले जा सकती है?",
+      "answers": [
+        "It runs on railway tracks and has many coaches."
+      ],
+      "options": [
+        "It runs on railway tracks and has many coaches.",
+        "It has two wheels.",
+        "It flies above the road."
+      ],
+      "optionsHi": [
+        "वह रेलवे की पटरियों पर चलती है और उसमें कई डिब्बे होते हैं।",
+        "उसमें दो पहिए होते हैं।",
+        "वह सड़क के ऊपर उड़ती है।"
+      ],
+      "explanation": "A train runs on tracks and has many coaches or wagons for people and goods.",
+      "explanationHi": "रेलगाड़ी पटरियों पर चलती है और उसमें लोगों तथा सामान के लिए कई डिब्बे या मालवाहक डिब्बे होते हैं।",
+      "context": "",
+      "status": "suggested",
+      "sources": []
+    }
+  ],
+  "lessons": [
+    {
+      "en": "Land transport moves people and goods over land. Road transport includes cars, buses, bicycles, scooters and trucks.",
+      "hi": "स्थल परिवहन ज़मीन पर लोगों और सामान को ले जाता है। सड़क परिवहन में कार, बस, साइकिल, स्कूटर और ट्रक शामिल हैं।"
+    },
+    {
+      "en": "Cars and buses use roads. Trains use railway tracks. A railway engine pulls the coaches.",
+      "hi": "कार और बस सड़क पर चलती हैं। रेलगाड़ियाँ रेलवे की पटरियों पर चलती हैं। रेल का इंजन डिब्बे खींचता है।"
+    },
+    {
+      "en": "A bus carries many passengers. A truck carries heavy goods on roads.",
+      "hi": "बस बहुत से यात्रियों को ले जाती है। ट्रक सड़क पर भारी सामान ले जाता है।"
+    },
+    {
+      "en": "Follow traffic rules. Walk on the footpath where available, and never play on or near railway tracks.",
+      "hi": "यातायात के नियम मानिए। जहाँ फुटपाथ हो, वहाँ उस पर चलिए। रेलवे की पटरियों पर या उनके पास कभी मत खेलिए।"
+    }
+  ],
+  "notes": "All 10 original questions are included, checked against the teacher key on page 2. Matching and multi-part questions are combined into one complete-answer choice to keep the 10-mark structure. Open-ended questions use one suitable example; other relevant answers can also be correct. All options include Hindi translations for audio playback."
+}
