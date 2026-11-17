@@ -1,0 +1,1698 @@
+[
+  {
+    "schemaVersion": 1,
+    "id": "spell-bee-october-english",
+    "title": "October Spell Bee — English",
+    "subject": "English",
+    "grade": "2",
+    "source": "October Class II Spell Bee — uploaded photo",
+    "reviewed": true,
+    "createdAt": "2026-11-17",
+    "spellBee": true,
+    "spellWords": [
+      {
+        "id": "oct-1",
+        "subject": "English",
+        "word": "Poked",
+        "language": "en",
+        "meaningEn": "pushed or touched with a finger or pointed object",
+        "meaningHi": "उँगली या नुकीली चीज़ से हल्के से चुभोया",
+        "exampleEn": "He poked the soft clay.",
+        "exampleHi": "उसने नरम मिट्टी में उँगली चुभोई।",
+        "note": "",
+        "accepted": [
+          "Poked"
+        ]
+      },
+      {
+        "id": "oct-2",
+        "subject": "English",
+        "word": "Yard",
+        "language": "en",
+        "meaningEn": "an open space beside a house",
+        "meaningHi": "आँगन",
+        "exampleEn": "We played in the yard.",
+        "exampleHi": "हम आँगन में खेले।",
+        "note": "",
+        "accepted": [
+          "Yard"
+        ]
+      },
+      {
+        "id": "oct-3",
+        "subject": "English",
+        "word": "Shoelace",
+        "language": "en",
+        "meaningEn": "a cord used to tie a shoe",
+        "meaningHi": "जूते का फ़ीता",
+        "exampleEn": "Tie your shoelace.",
+        "exampleHi": "अपने जूते का फ़ीता बाँधिए।",
+        "note": "",
+        "accepted": [
+          "Shoelace"
+        ]
+      },
+      {
+        "id": "oct-4",
+        "subject": "English",
+        "word": "Strong",
+        "language": "en",
+        "meaningEn": "having strength",
+        "meaningHi": "मज़बूत",
+        "exampleEn": "The strong rope held the box.",
+        "exampleHi": "मज़बूत रस्सी ने डिब्बे को थामे रखा।",
+        "note": "",
+        "accepted": [
+          "Strong"
+        ]
+      },
+      {
+        "id": "oct-5",
+        "subject": "English",
+        "word": "Granger",
+        "language": "en",
+        "meaningEn": "a farmer; an uncommon English word",
+        "meaningHi": "किसान; अंग्रेज़ी का कम प्रचलित शब्द",
+        "exampleEn": "A granger works on a farm.",
+        "exampleHi": "किसान खेत पर काम करता है।",
+        "note": "Printed as “Granger” in the supplied sheet. This is an uncommon word for a farmer. Please confirm with the teacher if “Stranger” was intended; the app has not changed it.",
+        "accepted": [
+          "Granger"
+        ]
+      },
+      {
+        "id": "oct-6",
+        "subject": "English",
+        "word": "Barn",
+        "language": "en",
+        "meaningEn": "a farm building for animals or crops",
+        "meaningHi": "खेत का भवन, जहाँ पशु या फसल रखी जाती है",
+        "exampleEn": "The hay is in the barn.",
+        "exampleHi": "सूखी घास खेत के भंडार में है।",
+        "note": "",
+        "accepted": [
+          "Barn"
+        ]
+      },
+      {
+        "id": "oct-7",
+        "subject": "English",
+        "word": "Piano",
+        "language": "en",
+        "meaningEn": "a musical instrument with black and white keys",
+        "meaningHi": "पियानो, काले-सफेद बटनों वाला वाद्य यंत्र",
+        "exampleEn": "She plays the piano.",
+        "exampleHi": "वह पियानो बजाती है।",
+        "note": "",
+        "accepted": [
+          "Piano"
+        ]
+      },
+      {
+        "id": "oct-8",
+        "subject": "English",
+        "word": "Middle",
+        "language": "en",
+        "meaningEn": "the centre",
+        "meaningHi": "बीच का हिस्सा",
+        "exampleEn": "Stand in the middle.",
+        "exampleHi": "बीच में खड़े होइए।",
+        "note": "",
+        "accepted": [
+          "Middle"
+        ]
+      },
+      {
+        "id": "oct-9",
+        "subject": "English",
+        "word": "Frock",
+        "language": "en",
+        "meaningEn": "a dress",
+        "meaningHi": "फ्रॉक, एक पोशाक",
+        "exampleEn": "The frock is blue.",
+        "exampleHi": "फ्रॉक नीली है।",
+        "note": "",
+        "accepted": [
+          "Frock"
+        ]
+      },
+      {
+        "id": "oct-10",
+        "subject": "English",
+        "word": "Mittens",
+        "language": "en",
+        "meaningEn": "gloves that keep the fingers together, with a separate thumb",
+        "meaningHi": "दस्ताने जिनमें अँगूठा अलग और बाकी उँगलियाँ साथ रहती हैं",
+        "exampleEn": "Mittens keep my hands warm.",
+        "exampleHi": "दस्ताने मेरे हाथ गर्म रखते हैं।",
+        "note": "",
+        "accepted": [
+          "Mittens"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "id": "oct-1",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Poked"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "pushed or touched with a finger or pointed object",
+        "explanationHi": "उँगली या नुकीली चीज़ से हल्के से चुभोया"
+      },
+      {
+        "id": "oct-2",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Yard"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "an open space beside a house",
+        "explanationHi": "आँगन"
+      },
+      {
+        "id": "oct-3",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Shoelace"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "a cord used to tie a shoe",
+        "explanationHi": "जूते का फ़ीता"
+      },
+      {
+        "id": "oct-4",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Strong"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "having strength",
+        "explanationHi": "मज़बूत"
+      },
+      {
+        "id": "oct-5",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Granger"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "a farmer; an uncommon English word",
+        "explanationHi": "किसान; अंग्रेज़ी का कम प्रचलित शब्द"
+      },
+      {
+        "id": "oct-6",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Barn"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "a farm building for animals or crops",
+        "explanationHi": "खेत का भवन, जहाँ पशु या फसल रखी जाती है"
+      },
+      {
+        "id": "oct-7",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Piano"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "a musical instrument with black and white keys",
+        "explanationHi": "पियानो, काले-सफेद बटनों वाला वाद्य यंत्र"
+      },
+      {
+        "id": "oct-8",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Middle"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "the centre",
+        "explanationHi": "बीच का हिस्सा"
+      },
+      {
+        "id": "oct-9",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Frock"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "a dress",
+        "explanationHi": "फ्रॉक, एक पोशाक"
+      },
+      {
+        "id": "oct-10",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Mittens"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "gloves that keep the fingers together, with a separate thumb",
+        "explanationHi": "दस्ताने जिनमें अँगूठा अलग और बाकी उँगलियाँ साथ रहती हैं"
+      }
+    ],
+    "lessons": [
+      {
+        "en": "Poked — pushed or touched with a finger or pointed object",
+        "hi": "Poked — उँगली या नुकीली चीज़ से हल्के से चुभोया"
+      },
+      {
+        "en": "Yard — an open space beside a house",
+        "hi": "Yard — आँगन"
+      },
+      {
+        "en": "Shoelace — a cord used to tie a shoe",
+        "hi": "Shoelace — जूते का फ़ीता"
+      },
+      {
+        "en": "Strong — having strength",
+        "hi": "Strong — मज़बूत"
+      },
+      {
+        "en": "Granger — a farmer; an uncommon English word",
+        "hi": "Granger — किसान; अंग्रेज़ी का कम प्रचलित शब्द"
+      },
+      {
+        "en": "Barn — a farm building for animals or crops",
+        "hi": "Barn — खेत का भवन, जहाँ पशु या फसल रखी जाती है"
+      },
+      {
+        "en": "Piano — a musical instrument with black and white keys",
+        "hi": "Piano — पियानो, काले-सफेद बटनों वाला वाद्य यंत्र"
+      },
+      {
+        "en": "Middle — the centre",
+        "hi": "Middle — बीच का हिस्सा"
+      },
+      {
+        "en": "Frock — a dress",
+        "hi": "Frock — फ्रॉक, एक पोशाक"
+      },
+      {
+        "en": "Mittens — gloves that keep the fingers together, with a separate thumb",
+        "hi": "Mittens — दस्ताने जिनमें अँगूठा अलग और बाकी उँगलियाँ साथ रहती हैं"
+      }
+    ],
+    "notes": "Ten words transcribed from the October Class II Spell Bee sheet. Pronunciation uses installed device voices. Granger is preserved as printed. Learning mode shows words; practice hides them until checking."
+  },
+  {
+    "schemaVersion": 1,
+    "id": "spell-bee-october-hindi",
+    "title": "October Spell Bee — Hindi",
+    "subject": "Hindi",
+    "grade": "2",
+    "source": "October Class II Spell Bee — uploaded photo",
+    "reviewed": true,
+    "createdAt": "2026-11-17",
+    "spellBee": true,
+    "spellWords": [
+      {
+        "id": "oct-11",
+        "subject": "Hindi",
+        "word": "आँगन",
+        "language": "hi",
+        "meaningEn": "courtyard",
+        "meaningHi": "घर का खुला हिस्सा",
+        "exampleEn": "The children play in the courtyard.",
+        "exampleHi": "बच्चे आँगन में खेलते हैं।",
+        "note": "",
+        "accepted": [
+          "आँगन",
+          "आंगन"
+        ]
+      },
+      {
+        "id": "oct-12",
+        "subject": "Hindi",
+        "word": "सहेली",
+        "language": "hi",
+        "meaningEn": "female friend",
+        "meaningHi": "स्त्री मित्र",
+        "exampleEn": "My friend reads with me.",
+        "exampleHi": "मेरी सहेली मेरे साथ पढ़ती है।",
+        "note": "",
+        "accepted": [
+          "सहेली"
+        ]
+      },
+      {
+        "id": "oct-13",
+        "subject": "Hindi",
+        "word": "अंधकार",
+        "language": "hi",
+        "meaningEn": "darkness",
+        "meaningHi": "अँधेरा",
+        "exampleEn": "The lamp removed the darkness.",
+        "exampleHi": "दीपक ने अंधकार दूर किया।",
+        "note": "",
+        "accepted": [
+          "अंधकार"
+        ]
+      },
+      {
+        "id": "oct-14",
+        "subject": "Hindi",
+        "word": "आज़ाद",
+        "language": "hi",
+        "meaningEn": "free",
+        "meaningHi": "स्वतंत्र",
+        "exampleEn": "The bird is free.",
+        "exampleHi": "पक्षी आज़ाद है।",
+        "note": "",
+        "accepted": [
+          "आज़ाद",
+          "आजाद"
+        ]
+      },
+      {
+        "id": "oct-15",
+        "subject": "Hindi",
+        "word": "शौक",
+        "language": "hi",
+        "meaningEn": "hobby or interest",
+        "meaningHi": "मनपसंद काम या रुचि",
+        "exampleEn": "Reading is my hobby.",
+        "exampleHi": "पढ़ना मेरा शौक है।",
+        "note": "",
+        "accepted": [
+          "शौक"
+        ]
+      },
+      {
+        "id": "oct-16",
+        "subject": "Hindi",
+        "word": "उदास",
+        "language": "hi",
+        "meaningEn": "sad",
+        "meaningHi": "दुखी",
+        "exampleEn": "The child feels sad.",
+        "exampleHi": "बच्चा उदास है।",
+        "note": "",
+        "accepted": [
+          "उदास"
+        ]
+      },
+      {
+        "id": "oct-17",
+        "subject": "Hindi",
+        "word": "प्रशंसा",
+        "language": "hi",
+        "meaningEn": "praise",
+        "meaningHi": "तारीफ़",
+        "exampleEn": "The teacher praised her work.",
+        "exampleHi": "शिक्षिका ने उसके काम की प्रशंसा की।",
+        "note": "",
+        "accepted": [
+          "प्रशंसा"
+        ]
+      },
+      {
+        "id": "oct-18",
+        "subject": "Hindi",
+        "word": "दृश्य",
+        "language": "hi",
+        "meaningEn": "scene or view",
+        "meaningHi": "दिखाई देने वाला नज़ारा",
+        "exampleEn": "The mountain view is beautiful.",
+        "exampleHi": "पहाड़ का दृश्य सुंदर है।",
+        "note": "",
+        "accepted": [
+          "दृश्य"
+        ]
+      },
+      {
+        "id": "oct-19",
+        "subject": "Hindi",
+        "word": "उपवन",
+        "language": "hi",
+        "meaningEn": "garden",
+        "meaningHi": "बगीचा",
+        "exampleEn": "Flowers grow in the garden.",
+        "exampleHi": "उपवन में फूल उगते हैं।",
+        "note": "",
+        "accepted": [
+          "उपवन"
+        ]
+      },
+      {
+        "id": "oct-20",
+        "subject": "Hindi",
+        "word": "सुंदर",
+        "language": "hi",
+        "meaningEn": "beautiful",
+        "meaningHi": "खूबसूरत",
+        "exampleEn": "The flower is beautiful.",
+        "exampleHi": "फूल सुंदर है।",
+        "note": "",
+        "accepted": [
+          "सुंदर",
+          "सुन्दर"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "id": "oct-11",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "आँगन",
+          "आंगन"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "courtyard",
+        "explanationHi": "घर का खुला हिस्सा"
+      },
+      {
+        "id": "oct-12",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "सहेली"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "female friend",
+        "explanationHi": "स्त्री मित्र"
+      },
+      {
+        "id": "oct-13",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "अंधकार"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "darkness",
+        "explanationHi": "अँधेरा"
+      },
+      {
+        "id": "oct-14",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "आज़ाद",
+          "आजाद"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "free",
+        "explanationHi": "स्वतंत्र"
+      },
+      {
+        "id": "oct-15",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "शौक"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "hobby or interest",
+        "explanationHi": "मनपसंद काम या रुचि"
+      },
+      {
+        "id": "oct-16",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "उदास"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "sad",
+        "explanationHi": "दुखी"
+      },
+      {
+        "id": "oct-17",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "प्रशंसा"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "praise",
+        "explanationHi": "तारीफ़"
+      },
+      {
+        "id": "oct-18",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "दृश्य"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "scene or view",
+        "explanationHi": "दिखाई देने वाला नज़ारा"
+      },
+      {
+        "id": "oct-19",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "उपवन"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "garden",
+        "explanationHi": "बगीचा"
+      },
+      {
+        "id": "oct-20",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "सुंदर",
+          "सुन्दर"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "beautiful",
+        "explanationHi": "खूबसूरत"
+      }
+    ],
+    "lessons": [
+      {
+        "en": "आँगन — courtyard",
+        "hi": "आँगन — घर का खुला हिस्सा"
+      },
+      {
+        "en": "सहेली — female friend",
+        "hi": "सहेली — स्त्री मित्र"
+      },
+      {
+        "en": "अंधकार — darkness",
+        "hi": "अंधकार — अँधेरा"
+      },
+      {
+        "en": "आज़ाद — free",
+        "hi": "आज़ाद — स्वतंत्र"
+      },
+      {
+        "en": "शौक — hobby or interest",
+        "hi": "शौक — मनपसंद काम या रुचि"
+      },
+      {
+        "en": "उदास — sad",
+        "hi": "उदास — दुखी"
+      },
+      {
+        "en": "प्रशंसा — praise",
+        "hi": "प्रशंसा — तारीफ़"
+      },
+      {
+        "en": "दृश्य — scene or view",
+        "hi": "दृश्य — दिखाई देने वाला नज़ारा"
+      },
+      {
+        "en": "उपवन — garden",
+        "hi": "उपवन — बगीचा"
+      },
+      {
+        "en": "सुंदर — beautiful",
+        "hi": "सुंदर — खूबसूरत"
+      }
+    ],
+    "notes": "Ten words transcribed from the October Class II Spell Bee sheet. Pronunciation uses installed device voices. Granger is preserved as printed. Learning mode shows words; practice hides them until checking."
+  },
+  {
+    "schemaVersion": 1,
+    "id": "spell-bee-october-maths",
+    "title": "October Spell Bee — Maths",
+    "subject": "Maths",
+    "grade": "2",
+    "source": "October Class II Spell Bee — uploaded photo",
+    "reviewed": true,
+    "createdAt": "2026-11-17",
+    "spellBee": true,
+    "spellWords": [
+      {
+        "id": "oct-21",
+        "subject": "Maths",
+        "word": "Multiplication",
+        "language": "en",
+        "meaningEn": "combining equal groups to find a total",
+        "meaningHi": "गुणा",
+        "exampleEn": "Three groups of two make six.",
+        "exampleHi": "दो के तीन समूह मिलकर छह होते हैं।",
+        "note": "",
+        "accepted": [
+          "Multiplication"
+        ]
+      },
+      {
+        "id": "oct-22",
+        "subject": "Maths",
+        "word": "Factors",
+        "language": "en",
+        "meaningEn": "numbers that divide a number exactly",
+        "meaningHi": "गुणनखंड",
+        "exampleEn": "Two and three are factors of six.",
+        "exampleHi": "दो और तीन, छह के गुणनखंड हैं।",
+        "note": "",
+        "accepted": [
+          "Factors"
+        ]
+      },
+      {
+        "id": "oct-23",
+        "subject": "Maths",
+        "word": "Products",
+        "language": "en",
+        "meaningEn": "the answers to multiplication problems",
+        "meaningHi": "गुणनफल",
+        "exampleEn": "The products of two times three and two times four are six and eight.",
+        "exampleHi": "दो गुना तीन और दो गुना चार के गुणनफल छह और आठ हैं।",
+        "note": "",
+        "accepted": [
+          "Products"
+        ]
+      },
+      {
+        "id": "oct-24",
+        "subject": "Maths",
+        "word": "Division",
+        "language": "en",
+        "meaningEn": "sharing or grouping equally",
+        "meaningHi": "भाग",
+        "exampleEn": "Division helps us share equally.",
+        "exampleHi": "भाग हमें बराबर बाँटने में मदद करता है।",
+        "note": "",
+        "accepted": [
+          "Division"
+        ]
+      },
+      {
+        "id": "oct-25",
+        "subject": "Maths",
+        "word": "Equally",
+        "language": "en",
+        "meaningEn": "in equal amounts",
+        "meaningHi": "बराबर मात्रा में",
+        "exampleEn": "Share the sweets equally.",
+        "exampleHi": "मिठाइयाँ बराबर बाँटिए।",
+        "note": "",
+        "accepted": [
+          "Equally"
+        ]
+      },
+      {
+        "id": "oct-26",
+        "subject": "Maths",
+        "word": "Groups",
+        "language": "en",
+        "meaningEn": "sets of things",
+        "meaningHi": "समूह",
+        "exampleEn": "Make two groups of three pencils.",
+        "exampleHi": "तीन-तीन पेंसिलों के दो समूह बनाइए।",
+        "note": "",
+        "accepted": [
+          "Groups"
+        ]
+      },
+      {
+        "id": "oct-27",
+        "subject": "Maths",
+        "word": "Divisor",
+        "language": "en",
+        "meaningEn": "the number we divide by",
+        "meaningHi": "भाजक",
+        "exampleEn": "In six divided by two, two is the divisor.",
+        "exampleHi": "छह को दो से भाग देने में दो भाजक है।",
+        "note": "",
+        "accepted": [
+          "Divisor"
+        ]
+      },
+      {
+        "id": "oct-28",
+        "subject": "Maths",
+        "word": "Dividend",
+        "language": "en",
+        "meaningEn": "the number being divided",
+        "meaningHi": "भाज्य",
+        "exampleEn": "In six divided by two, six is the dividend.",
+        "exampleHi": "छह को दो से भाग देने में छह भाज्य है।",
+        "note": "",
+        "accepted": [
+          "Dividend"
+        ]
+      },
+      {
+        "id": "oct-29",
+        "subject": "Maths",
+        "word": "Quotient",
+        "language": "en",
+        "meaningEn": "the answer to a division",
+        "meaningHi": "भागफल",
+        "exampleEn": "Six divided by two has a quotient of three.",
+        "exampleHi": "छह को दो से भाग देने पर भागफल तीन है।",
+        "note": "",
+        "accepted": [
+          "Quotient"
+        ]
+      },
+      {
+        "id": "oct-30",
+        "subject": "Maths",
+        "word": "Remainder",
+        "language": "en",
+        "meaningEn": "the amount left after dividing into equal groups",
+        "meaningHi": "शेषफल",
+        "exampleEn": "Seven shared into two equal groups leaves a remainder of one.",
+        "exampleHi": "सात को दो बराबर समूहों में बाँटने पर एक शेष रहता है।",
+        "note": "",
+        "accepted": [
+          "Remainder"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "id": "oct-21",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Multiplication"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "combining equal groups to find a total",
+        "explanationHi": "गुणा"
+      },
+      {
+        "id": "oct-22",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Factors"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "numbers that divide a number exactly",
+        "explanationHi": "गुणनखंड"
+      },
+      {
+        "id": "oct-23",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Products"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "the answers to multiplication problems",
+        "explanationHi": "गुणनफल"
+      },
+      {
+        "id": "oct-24",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Division"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "sharing or grouping equally",
+        "explanationHi": "भाग"
+      },
+      {
+        "id": "oct-25",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Equally"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "in equal amounts",
+        "explanationHi": "बराबर मात्रा में"
+      },
+      {
+        "id": "oct-26",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Groups"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "sets of things",
+        "explanationHi": "समूह"
+      },
+      {
+        "id": "oct-27",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Divisor"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "the number we divide by",
+        "explanationHi": "भाजक"
+      },
+      {
+        "id": "oct-28",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Dividend"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "the number being divided",
+        "explanationHi": "भाज्य"
+      },
+      {
+        "id": "oct-29",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Quotient"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "the answer to a division",
+        "explanationHi": "भागफल"
+      },
+      {
+        "id": "oct-30",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Remainder"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "the amount left after dividing into equal groups",
+        "explanationHi": "शेषफल"
+      }
+    ],
+    "lessons": [
+      {
+        "en": "Multiplication — combining equal groups to find a total",
+        "hi": "Multiplication — गुणा"
+      },
+      {
+        "en": "Factors — numbers that divide a number exactly",
+        "hi": "Factors — गुणनखंड"
+      },
+      {
+        "en": "Products — the answers to multiplication problems",
+        "hi": "Products — गुणनफल"
+      },
+      {
+        "en": "Division — sharing or grouping equally",
+        "hi": "Division — भाग"
+      },
+      {
+        "en": "Equally — in equal amounts",
+        "hi": "Equally — बराबर मात्रा में"
+      },
+      {
+        "en": "Groups — sets of things",
+        "hi": "Groups — समूह"
+      },
+      {
+        "en": "Divisor — the number we divide by",
+        "hi": "Divisor — भाजक"
+      },
+      {
+        "en": "Dividend — the number being divided",
+        "hi": "Dividend — भाज्य"
+      },
+      {
+        "en": "Quotient — the answer to a division",
+        "hi": "Quotient — भागफल"
+      },
+      {
+        "en": "Remainder — the amount left after dividing into equal groups",
+        "hi": "Remainder — शेषफल"
+      }
+    ],
+    "notes": "Ten words transcribed from the October Class II Spell Bee sheet. Pronunciation uses installed device voices. Granger is preserved as printed. Learning mode shows words; practice hides them until checking."
+  },
+  {
+    "schemaVersion": 1,
+    "id": "spell-bee-october-science",
+    "title": "October Spell Bee — Science",
+    "subject": "Science",
+    "grade": "2",
+    "source": "October Class II Spell Bee — uploaded photo",
+    "reviewed": true,
+    "createdAt": "2026-11-17",
+    "spellBee": true,
+    "spellWords": [
+      {
+        "id": "oct-31",
+        "subject": "Science",
+        "word": "Traffic",
+        "language": "en",
+        "meaningEn": "vehicles moving on roads",
+        "meaningHi": "यातायात",
+        "exampleEn": "There is traffic on the road.",
+        "exampleHi": "सड़क पर यातायात है।",
+        "note": "",
+        "accepted": [
+          "Traffic"
+        ]
+      },
+      {
+        "id": "oct-32",
+        "subject": "Science",
+        "word": "Safety",
+        "language": "en",
+        "meaningEn": "being protected from danger",
+        "meaningHi": "सुरक्षा",
+        "exampleEn": "Wear a helmet for safety.",
+        "exampleHi": "सुरक्षा के लिए हेलमेट पहनिए।",
+        "note": "",
+        "accepted": [
+          "Safety"
+        ]
+      },
+      {
+        "id": "oct-33",
+        "subject": "Science",
+        "word": "Footpath",
+        "language": "en",
+        "meaningEn": "a path beside a road for people to walk on",
+        "meaningHi": "पैदल चलने का रास्ता",
+        "exampleEn": "Walk on the footpath.",
+        "exampleHi": "फुटपाथ पर चलिए।",
+        "note": "",
+        "accepted": [
+          "Footpath"
+        ]
+      },
+      {
+        "id": "oct-34",
+        "subject": "Science",
+        "word": "Electric",
+        "language": "en",
+        "meaningEn": "using or related to electricity",
+        "meaningHi": "बिजली से जुड़ा या चलने वाला",
+        "exampleEn": "The electric fan keeps us cool.",
+        "exampleHi": "बिजली का पंखा हमें ठंडक देता है।",
+        "note": "",
+        "accepted": [
+          "Electric"
+        ]
+      },
+      {
+        "id": "oct-35",
+        "subject": "Science",
+        "word": "Strictly",
+        "language": "en",
+        "meaningEn": "firmly, following a rule exactly",
+        "meaningHi": "सख्ती से",
+        "exampleEn": "Follow safety rules strictly.",
+        "exampleHi": "सुरक्षा नियमों का सख्ती से पालन कीजिए।",
+        "note": "",
+        "accepted": [
+          "Strictly"
+        ]
+      },
+      {
+        "id": "oct-36",
+        "subject": "Science",
+        "word": "Gently",
+        "language": "en",
+        "meaningEn": "softly and carefully",
+        "meaningHi": "धीरे और कोमलता से",
+        "exampleEn": "Hold the kitten gently.",
+        "exampleHi": "बिल्ली के बच्चे को धीरे से पकड़िए।",
+        "note": "",
+        "accepted": [
+          "Gently"
+        ]
+      },
+      {
+        "id": "oct-37",
+        "subject": "Science",
+        "word": "Breeze",
+        "language": "en",
+        "meaningEn": "a light wind",
+        "meaningHi": "हल्की हवा",
+        "exampleEn": "A cool breeze is blowing.",
+        "exampleHi": "ठंडी हल्की हवा चल रही है।",
+        "note": "",
+        "accepted": [
+          "Breeze"
+        ]
+      },
+      {
+        "id": "oct-38",
+        "subject": "Science",
+        "word": "Sufficient",
+        "language": "en",
+        "meaningEn": "enough",
+        "meaningHi": "पर्याप्त",
+        "exampleEn": "We have sufficient water.",
+        "exampleHi": "हमारे पास पर्याप्त पानी है।",
+        "note": "",
+        "accepted": [
+          "Sufficient"
+        ]
+      },
+      {
+        "id": "oct-39",
+        "subject": "Science",
+        "word": "Windmill",
+        "language": "en",
+        "meaningEn": "a machine turned by the wind",
+        "meaningHi": "पवनचक्की",
+        "exampleEn": "The windmill turns in the wind.",
+        "exampleHi": "पवनचक्की हवा से घूमती है।",
+        "note": "",
+        "accepted": [
+          "Windmill"
+        ]
+      },
+      {
+        "id": "oct-40",
+        "subject": "Science",
+        "word": "Oxygen",
+        "language": "en",
+        "meaningEn": "a gas in air that we need to breathe",
+        "meaningHi": "ऑक्सीजन, साँस लेने के लिए ज़रूरी गैस",
+        "exampleEn": "We need oxygen to breathe.",
+        "exampleHi": "हमें साँस लेने के लिए ऑक्सीजन चाहिए।",
+        "note": "",
+        "accepted": [
+          "Oxygen"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "id": "oct-31",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Traffic"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "vehicles moving on roads",
+        "explanationHi": "यातायात"
+      },
+      {
+        "id": "oct-32",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Safety"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "being protected from danger",
+        "explanationHi": "सुरक्षा"
+      },
+      {
+        "id": "oct-33",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Footpath"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "a path beside a road for people to walk on",
+        "explanationHi": "पैदल चलने का रास्ता"
+      },
+      {
+        "id": "oct-34",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Electric"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "using or related to electricity",
+        "explanationHi": "बिजली से जुड़ा या चलने वाला"
+      },
+      {
+        "id": "oct-35",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Strictly"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "firmly, following a rule exactly",
+        "explanationHi": "सख्ती से"
+      },
+      {
+        "id": "oct-36",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Gently"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "softly and carefully",
+        "explanationHi": "धीरे और कोमलता से"
+      },
+      {
+        "id": "oct-37",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Breeze"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "a light wind",
+        "explanationHi": "हल्की हवा"
+      },
+      {
+        "id": "oct-38",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Sufficient"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "enough",
+        "explanationHi": "पर्याप्त"
+      },
+      {
+        "id": "oct-39",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Windmill"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "a machine turned by the wind",
+        "explanationHi": "पवनचक्की"
+      },
+      {
+        "id": "oct-40",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Oxygen"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "a gas in air that we need to breathe",
+        "explanationHi": "ऑक्सीजन, साँस लेने के लिए ज़रूरी गैस"
+      }
+    ],
+    "lessons": [
+      {
+        "en": "Traffic — vehicles moving on roads",
+        "hi": "Traffic — यातायात"
+      },
+      {
+        "en": "Safety — being protected from danger",
+        "hi": "Safety — सुरक्षा"
+      },
+      {
+        "en": "Footpath — a path beside a road for people to walk on",
+        "hi": "Footpath — पैदल चलने का रास्ता"
+      },
+      {
+        "en": "Electric — using or related to electricity",
+        "hi": "Electric — बिजली से जुड़ा या चलने वाला"
+      },
+      {
+        "en": "Strictly — firmly, following a rule exactly",
+        "hi": "Strictly — सख्ती से"
+      },
+      {
+        "en": "Gently — softly and carefully",
+        "hi": "Gently — धीरे और कोमलता से"
+      },
+      {
+        "en": "Breeze — a light wind",
+        "hi": "Breeze — हल्की हवा"
+      },
+      {
+        "en": "Sufficient — enough",
+        "hi": "Sufficient — पर्याप्त"
+      },
+      {
+        "en": "Windmill — a machine turned by the wind",
+        "hi": "Windmill — पवनचक्की"
+      },
+      {
+        "en": "Oxygen — a gas in air that we need to breathe",
+        "hi": "Oxygen — ऑक्सीजन, साँस लेने के लिए ज़रूरी गैस"
+      }
+    ],
+    "notes": "Ten words transcribed from the October Class II Spell Bee sheet. Pronunciation uses installed device voices. Granger is preserved as printed. Learning mode shows words; practice hides them until checking."
+  },
+  {
+    "schemaVersion": 1,
+    "id": "spell-bee-october-sst",
+    "title": "October Spell Bee — SST",
+    "subject": "Social Studies",
+    "grade": "2",
+    "source": "October Class II Spell Bee — uploaded photo",
+    "reviewed": true,
+    "createdAt": "2026-11-17",
+    "spellBee": true,
+    "spellWords": [
+      {
+        "id": "oct-41",
+        "subject": "Social Studies",
+        "word": "Interact",
+        "language": "en",
+        "meaningEn": "talk or do things with others",
+        "meaningHi": "दूसरों से बातचीत या मेलजोल करना",
+        "exampleEn": "We interact with our classmates.",
+        "exampleHi": "हम सहपाठियों से बातचीत करते हैं।",
+        "note": "",
+        "accepted": [
+          "Interact"
+        ]
+      },
+      {
+        "id": "oct-42",
+        "subject": "Social Studies",
+        "word": "Stitches",
+        "language": "en",
+        "meaningEn": "loops of thread used in sewing",
+        "meaningHi": "टाँके",
+        "exampleEn": "The tailor makes neat stitches.",
+        "exampleHi": "दर्ज़ी साफ़ टाँके लगाता है।",
+        "note": "",
+        "accepted": [
+          "Stitches"
+        ]
+      },
+      {
+        "id": "oct-43",
+        "subject": "Social Studies",
+        "word": "Repair",
+        "language": "en",
+        "meaningEn": "fix something broken",
+        "meaningHi": "मरम्मत करना",
+        "exampleEn": "Please repair the broken chair.",
+        "exampleHi": "कृपया टूटी कुर्सी की मरम्मत कीजिए।",
+        "note": "",
+        "accepted": [
+          "Repair"
+        ]
+      },
+      {
+        "id": "oct-44",
+        "subject": "Social Studies",
+        "word": "Wooden",
+        "language": "en",
+        "meaningEn": "made of wood",
+        "meaningHi": "लकड़ी का बना",
+        "exampleEn": "This is a wooden table.",
+        "exampleHi": "यह लकड़ी की मेज़ है।",
+        "note": "",
+        "accepted": [
+          "Wooden"
+        ]
+      },
+      {
+        "id": "oct-45",
+        "subject": "Social Studies",
+        "word": "Chemist",
+        "language": "en",
+        "meaningEn": "a person who sells medicines; also a scientist who studies chemistry",
+        "meaningHi": "दवा विक्रेता; रसायन का अध्ययन करने वाला वैज्ञानिक भी",
+        "exampleEn": "The chemist gave us medicine.",
+        "exampleHi": "दवा विक्रेता ने हमें दवा दी।",
+        "note": "",
+        "accepted": [
+          "Chemist"
+        ]
+      },
+      {
+        "id": "oct-46",
+        "subject": "Social Studies",
+        "word": "Actor",
+        "language": "en",
+        "meaningEn": "a person who plays a character in a play or film",
+        "meaningHi": "अभिनेता",
+        "exampleEn": "The actor is in a play.",
+        "exampleHi": "अभिनेता नाटक में है।",
+        "note": "",
+        "accepted": [
+          "Actor"
+        ]
+      },
+      {
+        "id": "oct-47",
+        "subject": "Social Studies",
+        "word": "Cobbler",
+        "language": "en",
+        "meaningEn": "a person who repairs shoes",
+        "meaningHi": "मोची",
+        "exampleEn": "The cobbler repairs shoes.",
+        "exampleHi": "मोची जूते ठीक करता है।",
+        "note": "",
+        "accepted": [
+          "Cobbler"
+        ]
+      },
+      {
+        "id": "oct-48",
+        "subject": "Social Studies",
+        "word": "Valuables",
+        "language": "en",
+        "meaningEn": "things worth a lot or important to someone",
+        "meaningHi": "कीमती सामान",
+        "exampleEn": "Keep your valuables safe.",
+        "exampleHi": "अपना कीमती सामान सुरक्षित रखिए।",
+        "note": "",
+        "accepted": [
+          "Valuables"
+        ]
+      },
+      {
+        "id": "oct-49",
+        "subject": "Social Studies",
+        "word": "Barber",
+        "language": "en",
+        "meaningEn": "a person who cuts hair",
+        "meaningHi": "नाई",
+        "exampleEn": "The barber cuts hair.",
+        "exampleHi": "नाई बाल काटता है।",
+        "note": "",
+        "accepted": [
+          "Barber"
+        ]
+      },
+      {
+        "id": "oct-50",
+        "subject": "Social Studies",
+        "word": "Community",
+        "language": "en",
+        "meaningEn": "a group of people connected by a place or shared interests",
+        "meaningHi": "समुदाय",
+        "exampleEn": "People in our community help each other.",
+        "exampleHi": "हमारे समुदाय के लोग एक-दूसरे की मदद करते हैं।",
+        "note": "",
+        "accepted": [
+          "Community"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "id": "oct-41",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Interact"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "talk or do things with others",
+        "explanationHi": "दूसरों से बातचीत या मेलजोल करना"
+      },
+      {
+        "id": "oct-42",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Stitches"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "loops of thread used in sewing",
+        "explanationHi": "टाँके"
+      },
+      {
+        "id": "oct-43",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Repair"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "fix something broken",
+        "explanationHi": "मरम्मत करना"
+      },
+      {
+        "id": "oct-44",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Wooden"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "made of wood",
+        "explanationHi": "लकड़ी का बना"
+      },
+      {
+        "id": "oct-45",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Chemist"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "a person who sells medicines; also a scientist who studies chemistry",
+        "explanationHi": "दवा विक्रेता; रसायन का अध्ययन करने वाला वैज्ञानिक भी"
+      },
+      {
+        "id": "oct-46",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Actor"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "a person who plays a character in a play or film",
+        "explanationHi": "अभिनेता"
+      },
+      {
+        "id": "oct-47",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Cobbler"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "a person who repairs shoes",
+        "explanationHi": "मोची"
+      },
+      {
+        "id": "oct-48",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Valuables"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "things worth a lot or important to someone",
+        "explanationHi": "कीमती सामान"
+      },
+      {
+        "id": "oct-49",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Barber"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "a person who cuts hair",
+        "explanationHi": "नाई"
+      },
+      {
+        "id": "oct-50",
+        "kind": "normal",
+        "section": "custom",
+        "en": "Listen and spell the word.",
+        "hi": "शब्द सुनिए और उसकी वर्तनी लिखिए।",
+        "answers": [
+          "Community"
+        ],
+        "options": [],
+        "optionsHi": [],
+        "explanation": "a group of people connected by a place or shared interests",
+        "explanationHi": "समुदाय"
+      }
+    ],
+    "lessons": [
+      {
+        "en": "Interact — talk or do things with others",
+        "hi": "Interact — दूसरों से बातचीत या मेलजोल करना"
+      },
+      {
+        "en": "Stitches — loops of thread used in sewing",
+        "hi": "Stitches — टाँके"
+      },
+      {
+        "en": "Repair — fix something broken",
+        "hi": "Repair — मरम्मत करना"
+      },
+      {
+        "en": "Wooden — made of wood",
+        "hi": "Wooden — लकड़ी का बना"
+      },
+      {
+        "en": "Chemist — a person who sells medicines; also a scientist who studies chemistry",
+        "hi": "Chemist — दवा विक्रेता; रसायन का अध्ययन करने वाला वैज्ञानिक भी"
+      },
+      {
+        "en": "Actor — a person who plays a character in a play or film",
+        "hi": "Actor — अभिनेता"
+      },
+      {
+        "en": "Cobbler — a person who repairs shoes",
+        "hi": "Cobbler — मोची"
+      },
+      {
+        "en": "Valuables — things worth a lot or important to someone",
+        "hi": "Valuables — कीमती सामान"
+      },
+      {
+        "en": "Barber — a person who cuts hair",
+        "hi": "Barber — नाई"
+      },
+      {
+        "en": "Community — a group of people connected by a place or shared interests",
+        "hi": "Community — समुदाय"
+      }
+    ],
+    "notes": "Ten words transcribed from the October Class II Spell Bee sheet. Pronunciation uses installed device voices. Granger is preserved as printed. Learning mode shows words; practice hides them until checking."
+  }
+]
